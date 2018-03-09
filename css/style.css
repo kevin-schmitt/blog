@@ -1,0 +1,16 @@
+body {
+	margin: 5%;
+	background: #111111;
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar
+{
+  background: linear-gradient(to right, #ff5858, #f857a6);
+  color: white;
+}
+
+a
+{
+  	color: white!important;
+}
